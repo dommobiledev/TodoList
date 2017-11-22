@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Todo List</string>
+    <string name="todo_title">TITLE</string>
+    <string name="todo_title_hint">HINT</string>
+    <string name="todo_title_label">LABEL</string>
+    <string name="todo_detail_label">DETAIL</string>
+    <string name="todo_complete_label">COMPLETE?</string>
+    <string name="todo_date">DATE</string>
+</resources>
